@@ -6,6 +6,7 @@
 
 # Implemente o problema do produtor consumidor usando RLock ao inves de uma fila
 
+"""
 from threading import Thread, Event
 from queue import Queue
 import time
@@ -48,53 +49,12 @@ if __name__ == '__main__':
     t2.join()
     t3.join()
     t4.join()
-
-
-# In[ ]:
-
-
-from threading import Thread, Event
-import time
-import random
-
-class producer(Thread):
-    def __init__(self):
-        Thread.__init__(self)
-        
-    def run(self):
-        item = random.randint(0, 256)
-        print('Producer notify: item Nº %d appended by %s\n' % (item, self.name))
-        time.sleep(1)
-        
-class consumer(Thread):
-    def __init__(self):
-        Thread.__init__(self)
-    
-    def run(self):
-        while True:
-            item = self.queue.get()
-            print('Consumer notify: %d popped by %s' % (item, self.name))
-            
-if __name__ == '__main__':
-    t1 = producer()
-    t2 = consumer()
-    t3 = consumer()
-    t4 = consumer()
-    for i in range(10):
-        t1.start()
-        t2.start()
-        t3.start()
-        t4.start()
-        t1.join()
-        t2.join()
-        t3.join()
-        t4.join()
-
+"""
 
 # In[ ]:
 
 
-from threading import Thread, Event
+import threading
 import time
 import random
 
@@ -119,28 +79,34 @@ class Product(object):
         Product.lock.acquire()
         self.execute(-1)
         Product.lock.release()
-        
-def producer(product, items):
+
+def random_number():
+    return random.randint(0, 256)
+
+def producer(product, items, product_number):
     while items > 0:
-        print("Producer notify: item Nº %d appended by %s\n" % (item, self.name))
+        print("Producer notify: item Nº %d appended\n" % (product_number))
         product.append()
         time.sleep(1)
+        items -= 1
     
-def consumer(product, items):
+def consumer(product, items, product_number):
     while items > 0:
-        print("Consumer notify: %d popped by %s" % (item, self.name))
+        print("Consumer notify: %d popped\n" % (product_number))
         product.pop()
         time.sleep(1)
+        items -= 1
     
 if __name__ == '__main__':
-    
-    items = 10
-    product = Product()
-    t1 = threading.Thread(target = producer, args = (product, items))
-    t2 = threading.Thread(target = consumer, args = (product, items))
-    
-    t1.start()
-    t2.start()
-    t1.join()
-    t2.join()
 
+    for i in range(10):
+        items = 1
+        product = Product()
+        product_number = random_number()
+        t1 = threading.Thread(target = producer, args = (product, items, product_number))
+        t2 = threading.Thread(target = consumer, args = (product, items, product_number))
+
+        t1.start()
+        t2.start()
+        t1.join()
+        t2.join()
