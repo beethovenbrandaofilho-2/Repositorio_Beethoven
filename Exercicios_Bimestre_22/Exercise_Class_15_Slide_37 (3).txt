@@ -1,0 +1,4 @@
+Criar exemplos de programas com os seguintes padrões:
+1) Fábrica Abstrata
+2) Mediador
+3) State

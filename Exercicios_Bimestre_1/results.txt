@@ -1,0 +1,654 @@
+1           ELIENE MARIA DA SILVA RODRIGUES         JORGE      92    9    1    7
+2           ELIENE MARIA DA SILVA RODRIGUES         JORGE      92    9    1    4
+3           ELIENE MARIA DA SILVA RODRIGUES         JORGE      90    9    1    7
+4           ELIENE MARIA DA SILVA RODRIGUES         JORGE      89    9    1    7
+5           ELIENE MARIA DA SILVA RODRIGUES         JORGE      89    9    1    7
+6           ELIENE MARIA DA SILVA RODRIGUES         JORGE      89    9    0    7
+7           ELIENE MARIA DA SILVA RODRIGUES         JORGE      89    9    0    4
+8                  TIAGO FONTENELLE                YÁSCARAH    88    11    1    7
+9                    NETO OLIVEIRA                  MARKIM     88    10    2    7
+10       JOSE CRISOSTOMO GOMES DE OLIVEIRA FILHO    GABRIEL     88    10    0    7
+11                HANNA DE SOUSA DUTRA                IGOR      87    12    3    10
+12                CARLOS EDUARDO (DADA)              MARKIM     85    9    2    7
+13           ELIENE MARIA DA SILVA RODRIGUES         JORGE      85    9    0    7
+14              ALESSANDRA MENDES SILVERA           GABRIEL     83    9    2    10
+15              ALESSANDRA MENDES SILVERA           GABRIEL     83    9    2    10
+16       MARCOS ANTNIO GUEDES DA SILVEIRA FILHO     GABRIEL     83    9    2    10
+17                NARCISO AMANCIO NETO              YÁSCARAH    83    8    2    7
+18                   MARCOS MIRANDA                 BEATRIZ     83    7    0    4
+19             MAROZAN DOS SANTOS CARVALHO            ENIO      81    9    3    4
+20                    CAMPELO NETO                  CAMPELO     81    9    2    10
+21           ELIENE MARIA DA SILVA RODRIGUES         JORGE      81    7    0    7
+22                   LIDIO SANTIAGO                 LEANDRO     80    8    1    7
+23               DAVI TÔRRES CAVALCANTE             MORGANA     80    6    3    4
+24                    NELSON COSTA                   ALICE      79    9    2    9
+25                     MATEUS LIMA                  LETÍCIA     79    8    1    4
+26               VANIO DE SOUSA REZENDE              SUÉLEN     79    8    1    4
+27          BRUNO SOARES DE SOUSA CAVALCANTE        CYDYARA     79    7    2    7
+28           ELIENE MARIA DA SILVA RODRIGUES         JORGE      79    7    1    7
+29           ELIENE MARIA DA SILVA RODRIGUES         JORGE      79    7    1    4
+30             BRENO NOAH SEBA PAIVA MELO           VICTÓRIA    79    6    4    4
+31             ANTONIO DE S. HOLANDA FILHO           ROMULO     79    6    3    4
+32            ADRIANA PEREIRA MACIEL BARROS         GUSTAVO     78    8    1    7
+33                      PEDRO IVO                   BEATRIZ     78    7    3    4
+34                   JURANDIR LOPES                  FÁBIO      78    7    1    7
+35              LUMA GOIANA PINTO SIMEÃO            LEANDRO     78    7    1    4
+36                 TICIANO ARRAES LAGE              LEANDRO     78    7    1    4
+37           ELIENE MARIA DA SILVA RODRIGUES         JORGE      78    6    2    4
+38                    GILSON FILHO                  CAMPELO     77    9    0    7
+39            JOAO VITOR CARVALHO FERREIRA           MARKIM     77    8    2    4
+40           ELIENE MARIA DA SILVA RODRIGUES         JORGE      77    8    1    7
+41           JOAO LUCAS CARVALHO VASCONCELOS        YÁSCARAH    77    8    1    7
+42                      YVES BRAZ                   LEANDRO     77    8    1    5
+43                    DANIEL BRASIL                 GABRIELA    77    8    1    4
+44                    ROSY FOFINHA                  VICTÓRIA    77    7    0    10
+45             RAYLLA RYANE RAMOS AMANCIO           YÁSCARAH    77    7    0    7
+46                 BRENDA LUZIA ARAGAO              RAFAELA     77    6    2    12
+47                  ANDRE FELIPE MELO                 IGOR      77    6    1    7
+48           ELIENE MARIA DA SILVA RODRIGUES         JORGE      77    5    2    7
+49            SEBASTIÃO BEETHOVEN BRANDÃO           MORGANA     77    5    0    4
+50               DIOGO DE OLIVEIRA ROCHA            VICTÓRIA    76    9    1    7
+51               IGOR BARBOSA GONÇALVES               IGOR      76    9    1    7
+52                    MAURIZIO D.J                  GABRIEL     76    8    2    4
+53              LUIS FERNANDO CUNHA GOMES           VICTÓRIA    76    7    1    7
+54                   SIMAO PEDRO II                  TATAIA     76    7    1    4
+55                      GEICYANE                    CYDYARA     76    6    3    10
+56           ELIENE MARIA DA SILVA RODRIGUES         JORGE      76    6    2    7
+57           ELIENE MARIA DA SILVA RODRIGUES         JORGE      76    6    0    7
+58                JOÃO VITOR MAGALHÃES              MORGANA     75    8    3    9
+59            PAULO ROBERTO MACENA ANDRADE          VICTÓRIA    75    8    3    7
+60          FRANCISCO DAS CHAGAS BORGES LEAL        VICTÓRIA    75    7    2    7
+61            MARIANNA STEFFANY LUZ BORGES          VICTÓRIA    75    7    2    7
+62                     PEDRO PAULO                  LEANDRO     75    7    0    7
+63                    LUIZ MARTINS                    ENIO      75    6    2    7
+64                      LAURA SÁ                    LETÍCIA     75    6    2    4
+65           MARIA CLARA COELHO DE RESENTE          YÁSCARAH    75    6    1    7
+66           ANDERSON ISAAC PEREIRA BARBOSA          VICTOR     75    5    3    7
+67                  LAERCIO GALASSIA                  ENIO      75    4    3    4
+68                   GRAÇA TEIXEIRA                  FÁBIO      74    8    2    10
+69                   MARINA PORTELA                 CAMPELO     74    8    2    2
+70                     JAMIL BUCAR                    ENIO      74    7    2    7
+71                MARCIO DA SILVA MAIA               SUÉLEN     74    7    2    4
+72              WESLEY WAGNER DOS SANTOS              ENIO      74    7    1    4
+73                  CAROLINE ANDRADE                LEANDRO     74    6    3    7
+74            MARIA EDUARDA SILVA ALCÂNTARA         MORGANA     74    6    2    4
+75                    AUGUSTO CEZAR                   ENIO      74    6    0    7
+76                    LUCAS MARQUES                  TATAIA     74    6    0    7
+77                    VERONICA ENF.                 CYDYARA     74    6    0    4
+78                    MATEUS LOPES                  BEATRIZ     74    5    4    7
+79                ANTONIO EGITO SEGUNGO              BRUNO      74    5    2    10
+80           LUIS HENRIQUE ALMEIDA RODRIGUES          ENIO      74    5    1    7
+81                  ANDREIA PATRICIA                CYDYARA     73    10    1    7
+82                    ELANE NAYARA                   TATAIA     73    8    1    7
+83             MAROZAN DOS SANTOS CARVALHO            ENIO      73    7    3    4
+84             MARIA SOLANGE FERREIRA LIMA           BRUNO      73    7    2    7
+85                     ANISIO NETO                   SUELEN     73    6    3    4
+86                  LUCAS ARAUJO LUZ                VICTÓRIA    73    4    1    4
+87              GUNTHER DE ARAUJO BATISTA           VICTÓRIA    72    8    0    10
+88       PATRICIA DE SOUZA ANDRADE TAJRA MENDES     YÁSCARAH    72    8    0    7
+89                     ALDO CAMPOS                   TATAIA     72    7    3    7
+90              MARCELO E SILVA DE MOURA            MORGANA     72    7    2    7
+91               FELIPE BARBOSA SALGADO              SUÉLEN     72    7    1    7
+92          SEBASTIÃO BEETHOVEN BRANDÃO FILHO       MORGANA     72    7    1    7
+93                    GILSON FILHO                  CAMPELO     72    7    1    4
+94                    GABRIEL CUNHA                 BEATRIZ     72    6    3    7
+95                   GRAÇA TEIXEIRA                  FÁBIO      72    6    2    7
+96                NARCISO AMANCIO NETO              YÁSCARAH    72    6    0    10
+97           ELIENE MARIA DA SILVA RODRIGUES         JORGE      72    6    0    7
+98              PEDRO HENRIQUE A PEREIRA            YÁSCARAH    72    6    0    7
+99          THALES DANIEL DE OLIVEIRA SAMPAIO         ENIO      72    6    0    7
+100                    SANMYA SANTOS                  FÁBIO      72    5    4    4
+101                  ELIZYANNE MARTINS                VICTOR     72    5    3    7
+102                      SILVESTRE                    FÁBIO      72    5    3    7
+103            ADRIANA PEREIRA MACIEL BARROS         GUSTAVO     72    5    1    7
+104                FRANCISCO ALDO JUNIOR             LETÍCIA     72    5    1    7
+105                     RAMON NUNES                  GUSTAVO     72    5    1    4
+106                    LUCAS EULÁLIO                 BEATRIZ     72    4    3    4
+107                      RAMON 87                    CYDYARA     72    4    2    4
+108                    NELSON COSTA                   ALICE      72    4    1    4
+109              ALESSANDRA MENDES SILVERA           GABRIEL     71    8    2    9
+110                  FRANCISCO ARAÚJO                 FÁBIO      71    7    0    7
+111                  ELIZYANNE MARTINS                VICTOR     71    6    3    7
+112              MARIA TERESA SANTOS SILVA            RÔMULO     71    6    3    4
+113                DEUSIMAR BORGES LEAL              VICTÓRIA    71    6    1    4
+114                    GILSON FILHO                  CAMPELO     71    6    1    4
+115               GUILHERME SILVA TEODORO             SUÉLEN     71    6    1    4
+116               IGOR BARBOSA GONÇALVES               IGOR      71    6    1    4
+117             RAYLLA RYANE RAMOS AMANCIO           YÁSCARAH    71    5    3    10
+118                    ARTHUR LEITE                    ENIO      71    5    3    7
+119              LUCAS SILVA REIS DE SOUSA             ENIO      71    5    3    4
+120                    UIRANY MENDES                  MARKIM     71    5    2    10
+121                KLAINE RAMOS FREITAS              YÁSCARAH    71    5    1    4
+122                 NEURISMAR NORMANDES              RAFAELA     71    5    1    4
+123           ELIENE MARIA DA SILVA RODRIGUES         JORGE      71    5    0    4
+124                  JOSÉ ALMEIDA NETO               BEATRIZ     71    5    0    4
+125                   ANTONIO TAIRONE                 MARKIM     71    4    1    4
+126             AURINETE DE OLIVEIRA SOUSA             IGOR      70    8    1    7
+127                  ELIZYANNE MARTINS                VICTOR     70    8    0    10
+128       GINIVALDO VICTOR RIBEIRO DO NASCIMENTO    GUILHERME    70    7    3    4
+129         JESSICA CRISTINA OLIVEIRA DA SILVA        SUÉLEN     70    7    2    7
+130               MAYARA DE MOURA BORGES              BRUNO      70    6    3    5
+131              CAIQUE FIGUEIREDO CASTRO              ENIO      70    6    2    7
+132                    GILSON FILHO                  CAMPELO     70    6    2    7
+133                   MARIA DAS DORES                  IGOR      70    6    1    7
+134                  LOURDJANA MACEDO                 BRUNO      70    6    0    10
+135                    NELSON COSTA                   ALICE      70    6    0    7
+136       IGHOR DANIELL OLIVEIRA RAMOS CAVALCANTI      ENIO      70    5    1    7
+137                BRUNO RIBEIRO DA LUZ               VICTOR     70    5    1    4
+138                    NELSON COSTA                   ALICE      70    4    1    4
+139                    NELSON COSTA                   ALICE      70    4    1    4
+140                        JESSÉ                     CYDYARA     70    4    0    4
+141                    VINICIUS RUAN                   IGOR      70    4    0    4
+142                   ORLANDO BARBOSA                LETÍCIA     69    8    2    10
+143                  IAGO SANTOS MEIRA                 ENIO      69    8    2    4
+144                LUCAS TAVARES ALENCAR             GABRIEL     69    8    1    7
+145                    NELSON COSTA                   ALICE      69    7    1    4
+146                    NELSON COSTA                   ALICE      69    7    1    4
+147                    PAULO GRANJA                  LEANDRO     69    7    1    4
+148                   WILSON GERALDO                  SUÉLEN     69    7    0    10
+149               RODRIGO GONDIM MIRANDA              BRUNO      69    7    0    4
+150            LANDRI JOSÉ DE ALENCAR SOUSA          LEANDRO     69    6    2    4
+151                  ARTEMIS CARVALHO                LETICIA     69    6    1    7
+152                ARTEMISE DE OLIVEIRA                IGOR      69    6    1    7
+153                 MARIANNY PISSOLOTO               BEATRIZ     69    6    1    7
+154               LUCAS D. VERAS BATISTA               ENIO      69    5    2    7
+155                MARCIO DA SILVA MAIA               SUÉLEN     69    5    2    4
+156                   ANTONIO MIGUEL                   IGOR      69    5    1    7
+157                    CARLOS MAGNO                  LETÍCIA     69    5    1    4
+158           ELIENE MARIA DA SILVA RODRIGUES         JORGE      69    5    0    10
+159               MATHEUS MACEDO HERNESTO            GUSTAVO     69    5    0    7
+160         FERNANDES VILARINDO DA SILVA FILHO        BRUNO      69    5    0    4
+161                  JOSÉ ALMEIDA NETO               BEATRIZ     69    5    0    4
+162                   LEONARDO LOPES                  TATAIA     69    5    0    4
+163                   MARIA ROSANGELA                CYDYARA     69    5    0    4
+164           ELIENE MARIA DA SILVA RODRIGUES         JORGE      69    4    1    7
+165               MARIA DAS GRAÇAS COSTA             CYDYARA     69    4    1    4
+166             MATHEUS SANTOS DE CARVALHO             ENIO      68    8    0    7
+167                   MIGUEL DA PRATA                GABRIEL     68    7    2    7
+168                    NELSON COSTA                   ALICE      68    6    1    7
+169                    ARI PEIXEIRO                  GABRIEL     68    6    0    7
+170             SILVANO RODRIGUES DE BRITO           LETÍCIA     68    6    0    7
+171                    GILSON FILHO                  CAMPELO     68    5    2    7
+172          JOSE CRISOSTOMO GOMES DE OLIVEIRA       GABRIEL     68    5    2    7
+173                     LUCAS SENA                   BEATRIZ     68    5    2    7
+174             EDIVALDO BERNADO DE AGUIAR            RÔMULO     68    5    1    4
+175                 PEDRO HENRIQUE LIMA               JORGE      68    4    3    4
+176           ELIENE MARIA DA SILVA RODRIGUES         JORGE      68    4    2    7
+177                DAVI INACIO DE SOUZA               SUÉLEN     68    4    1    4
+178                     ROSY RAINHA                    ENIO      68    4    1    4
+179            FERNANDA LUCIA DE SAOUSA DIAS         CYDYARA     68    4    1    2
+180           ELIENE MARIA DA SILVA RODRIGUES         JORGE      68    4    0    7
+181                ANNE DE ALMEIDA VERAS              ROMULO     68    4    0    4
+182                       SOCORRO                     FÁBIO      67    7    1    4
+183                   GEOVANNA SANTOS                 FÁBIO      67    7    0    7
+184            LUCAS DE SOUSA CORTEZ BARROS          VICTÓRIA    67    6    3    7
+185              ADRIANO JOSE REGO BARBOSA           LETICIA     67    6    2    7
+186               VITOR DE DEUS GONÇALVES            BEATRIZ     67    6    2    7
+187                    GILSON FILHO                  CAMPELO     67    6    1    4
+188                  LUCAS ARAUJO LUZ                VICTÓRIA    67    5    4    4
+189                  LUCAS ARAUJO LUZ                VICTÓRIA    67    5    2    4
+190           ELIENE MARIA DA SILVA RODRIGUES         JORGE      67    5    0    7
+191                        IRENE                       IGOR      67    5    0    7
+192                NARCISO AMANCIO NETO              YÁSCARAH    67    5    0    4
+193                    BCUNHA JUNIOR                  FÁBIO      67    4    3    4
+194                POLYANO COSTA SANTOS              CYDYARA     67    4    2    7
+195                NARCISO AMANCIO NETO              YÁSCARAH    67    4    1    10
+196                  LUCIA MARIA NUNES               LETÍCIA     67    4    1    7
+197             ANTONIO DE S. HOLANDA FILHO           ROMULO     67    4    1    4
+198          LUCIRLANE DE SA CARVALHO ALENCAR        VICTÓRIA    67    4    1    4
+199                PAULO DE TARSO TOMAZ              GABRIELA    67    4    1    0
+200                     CAIO CÉSAR                   MORGANA     67    3    2    4
+201           JOSÉ CARLOS RODRIGUES DE SOUSA         GABRIELA    67    3    2    4
+202                     KELVIN HAGI                   TATAIA     67    3    2    4
+203                    GILSON FILHO                  CAMPELO     67    1    3    4
+204                    GILSON FILHO                  CAMPELO     66    9    4    7
+205                    GILSON FILHO                  CAMPELO     66    8    2    7
+206                     ANISIO NETO                   SUELEN     66    8    1    5
+207            ALEXANDRE GABRIEL SILVA REGO          GUSTAVO     66    7    3    10
+208                       TERCIO                      FÁBIO      66    7    2    10
+209                     ISABEL SEVE                  LEANDRO     66    7    2    5
+210                   RAPHAEL MARTINS                YÁSCARAH    66    7    1    7
+211                  ANYELTON LUZ LIMA               VICTORIA    66    6    4    4
+212                     IGOR VÉRAS                   BEATRIZ     66    6    2    10
+213             CLENIA MARIA RAMOS AMANCIO           YÁSCARAH    66    6    2    7
+214                    NELSON COSTA                   ALICE      66    6    1    7
+215                  GEORGE WASHINGTON                 ENIO      66    6    0    4
+216               LUCAS RAFAEL DE ALENCAR            LEANDRO     66    5    4    5
+217                       GUERRA                      MARKIM     66    5    3    4
+218                 BERE GILSO MARTINS                MARKIM     66    5    2    7
+219            FRANCISCO RIBEIRO DE ALMEIDA          RAFAELA     66    5    2    7
+220                   LUCAS MESQUITA                 BEATRIZ     66    5    2    7
+221                 LUCAS MOURA ANDRADE               JORGE      66    5    2    4
+222                   OSCAR RODRIGUES                 FÁBIO      66    5    2    4
+223             MARCELO COSTA MARTINS MOURA            ENIO      66    5    1    7
+224              MARCELO CUNHA DE ANDRADE           GUILHERME    66    5    1    4
+225                    GILSON FILHO                  CAMPELO     66    4    2    7
+226                    GILSON FILHO                  CAMPELO     66    4    1    4
+227           ELIENE MARIA DA SILVA RODRIGUES         JORGE      66    4    0    7
+228             THIAGO MARQUES JUAN CARLOS             ENIO      66    4    0    2
+229                 SIDCLEY SOUZA SILVA               RÔMULO     66    3    3    4
+230        ANTÔNIO MARCOS BEZARRA MIRANDA JUNIOR     BEATRIZ     66    3    2    7
+231                    GILSON FILHO                  CAMPELO     66    3    2    4
+232              RAIMUNDO BORGES DE ARAUJO            BRUNO      65    7    0    7
+233                    CAIO CAMILLO                  BEATRIZ     65    6    2    7
+234                  FRANCISCO ARAÚJO                 FÁBIO      65    6    2    4
+235                       SOCORRO                     FÁBIO      65    6    2    4
+236               ATAIDES JAIME DE SOUSA            GUILHERME    65    6    1    7
+237              ALESSANDRA MENDES SILVERA           GABRIEL     65    5    0    7
+238                HANNA DE SOUSA DUTRA                IGOR      65    5    0    7
+239            MANOEL GUSTAVO GOMES FEITOSA          GABRIEL     65    5    0    7
+240                    NELSON COSTA                   ALICE      65    5    0    7
+241                    NELSON COSTA                   ALICE      65    5    0    7
+242                PLINIO DANIEL FREITAS             YÁSCARAH    65    5    0    7
+243             EPITACIO DE CARVALHO SANTOS           MARKIM     65    5    0    4
+244                    GILSON FILHO                  CAMPELO     65    4    2    4
+245                    NELSON COSTA                   ALICE      65    4    2    4
+246              ALVARO HEITOR LUZ BORGES            VICTORIA    65    4    1    7
+247             RAYLLA RYANE RAMOS AMANCIO           YÁSCARAH    65    4    1    7
+248              ROBERTA MENDES DE ARAÚJO            BEATRIZ     65    4    1    7
+249                    NELSON COSTA                   ALICE      65    4    1    4
+250                    NELSON COSTA                   ALICE      65    4    1    4
+251                       SOCORRO                     FÁBIO      65    4    1    4
+252            VICTOR ELPIDIO SOARES MARQUES           ENIO      65    4    1    4
+253              ANA MARIA COELHO HOLANDA             BRUNO      65    4    1    2
+254               AMANDA SALES ALVARENGA             GUSTAVO     65    3    3    4
+255                HANNA DE SOUSA DUTRA                IGOR      65    3    1    4
+256                    NELSON COSTA                   ALICE      65    3    1    4
+257                   ADRIANA BARROS                 CYDYARA     65    3    0    4
+258                  ROSA MARIA NUNES                LETÍCIA     65    3    0    4
+259                ELTON DA SILVA GOMES               RÔMULO     65    2    3    4
+260            ANTONIO GILVAN SILVA LUSTOSA            IGOR      64    6    4    4
+261                    FERNANDO GIL                  CAMPELO     64    6    1    4
+262             MARINA VERAS VIANA PORTELA           LETÍCIA     64    6    1    2
+263                    ANICETO LOPES                  TATAIA     64    6    0    4
+264                    ALANO FORTES                   TATAIA     64    5    3    4
+265                  RENAN CAVALCANTE                BEATRIZ     64    5    3    4
+266              ALESSANDRA MENDES SILVERA           GABRIEL     64    5    2    7
+267              CONSTANTIN PHILIPPE SALHA           MORGANA     64    5    2    7
+268                   EDUARDO ANDRADE                LETÍCIA     64    5    2    7
+269                   THAIS LINHARES                 GABRIELA    64    5    2    7
+270               FRANCISCO AVELAR LOPES              BRUNO      64    5    2    4
+271                PEDRO ANDRE NUNES PAZ             VICTÓRIA    64    5    2    4
+272                  RAIMUNDO FURTADO                 TATAIA     64    5    2    4
+273          VANUZA OLIVEIRA SAMPAIO DE BRITO         BRUNO      64    5    2    4
+274               EDUARDO ALVES DE BARROS            GUSTAVO     64    5    1    7
+275                HANNA DE SOUSA DUTRA                IGOR      64    5    1    7
+276              ANDRESSA TAYNARA RIBEIRO              IGOR      64    4    2    4
+277                PEDRO RODRIGUES TOMAZ             GABRIELA    64    4    2    2
+278                    GILSON FILHO                  CAMPELO     64    4    1    4
+279                      MAURICIO                    CYDYARA     64    4    1    4
+280                NARCISO AMANCIO NETO              YÁSCARAH    64    4    0    7
+281              ANTONIO JOSE DE OLIVEIRA            CYDYARA     64    4    0    4
+282                    NELSON COSTA                   ALICE      64    4    0    4
+283                    BRUNA CAMPOS                  YÁSCARAH    64    3    2    4
+284                    GILSON FILHO                  CAMPELO     64    3    1    7
+285                  LUCIA MARIA NUNES               LETÍCIA     64    3    1    7
+286              ENZO ELDER COSTA RIBEIRO            VICTÓRIA    64    3    1    4
+287                    GILSON FILHO                  CAMPELO     64    3    1    4
+288                    NELSON COSTA                   ALICE      64    3    1    4
+289                     NILSON NETO                    IGOR      64    3    1    4
+290                    NELSON COSTA                   ALICE      64    2    1    4
+291                  ROSA MARIA NUNES                LETÍCIA     64    2    0    4
+292              ALESSANDRA MENDES SILVERA           GABRIEL     63    6    3    8
+293            OSVALDO PEREIRA NUNES JUNIOR           JORGE      63    6    2    2
+294             AGAMENON FERREIRA DA SILVA            MARKIM     63    5    3    7
+295                        DENIS                     CYDYARA     63    5    1    7
+296            FABIO HENRIQUE REIS DE SOUSA            ENIO      63    5    1    4
+297                    NELSON COSTA                   ALICE      63    5    1    4
+298             ROSILENE DA CONCEICAO GOMES          VICTÓRIA    63    5    1    4
+299                 THALES MACEDO DUTRA              YÁSCARAH    63    5    1    4
+300           TITO LIVIO NOGUEIRA DE OLIVEIRA         MARKIM     63    5    1    4
+301                  FRANCISCO ARAÚJO                 FÁBIO      63    5    0    7
+302               JOÃO VICTOR LOPES LIMA             LEANDRO     63    5    0    7
+303                   AUGUSTO CABRAL                  FABIO      63    5    0    4
+304              BRENO SIQUEIRA RODRIGUES              ENIO      63    5    0    4
+305         CARLOS VINICIUS GOIANA PINTO SIMEAO      LEANDRO     63    4    3    7
+306             ADRIANA RODRIGUES DE SOUSA           GABRIELA    63    4    3    5
+307               FRANCISCO AVELAR LOPES              BRUNO      63    4    2    4
+308                 NELIMARIA SILVEIRA                MARKIM     63    4    2    4
+309              ALESSANDRA MENDES SILVERA           GABRIEL     63    4    1    7
+310                    DENNYS SOARES                   ENIO      63    4    1    7
+311               JOÃO VICTOR LOPES LIMA             LEANDRO     63    4    1    7
+312                JOSE VALMIR DA SILVA             GUILHERME    63    4    1    7
+313                    MARCELO MOURA                  TATAIA     63    4    1    4
+314                MARCIO DA SILVA MAIA               SUÉLEN     63    4    1    4
+315           MARIA AGATHA MARGARETE REZENDE         GUSTAVO     63    4    1    4
+316            ROMEU BRENO PIEROTE DE SOUSA            IGOR      63    4    1    4
+317                    GILSON FILHO                  CAMPELO     63    3    2    4
+318                MARCIO DA SILVA MAIA               SUÉLEN     63    3    2    4
+319                    NELSON COSTA                   ALICE      63    3    1    7
+320          SEBASTIÃO BEETHOVEN BRANDÃO FILHO       MORGANA     63    3    0    4
+321                    MÁRIO ROBERTO                 BEATRIZ     63    2    1    7
+322                     CESAR FILHO                   TATAIA     63    2    1    4
+323                    MÁRIO ROBERTO                 BEATRIZ     63    2    1    4
+324                     PABLO LOPES                   BRUNO      63    2    1    4
+325                    THAIS MOREIRA                  TATAIA     63    2    1    4
+326                  FRANCO FONTINELLI                BRUNO      63    1    2    4
+327              PATRÍCIA RODRIGUES TOMAZ            GABRIELA    62    8    6    4
+328          SEBASTIÃO BEETHOVEN BRANDÃO FILHO       MORGANA     62    7    3    7
+329                 LUIS CARLOS BATISTA               BRUNO      62    6    5    10
+330                 MARIA LENI LUZ LEAL              VICTÓRIA    62    6    3    7
+331                       MARCUS                     CYDYARA     62    6    0    7
+332                ARIELLE REGO BARBOSA              LETICIA     62    5    4    7
+333                     ANISIO NETO                   SUELEN     62    5    2    4
+334                MARCOS AURELIO JUNIOR             LETÍCIA     62    5    1    10
+335              ENZO ELDER COSTA RIBEIRO            VICTÓRIA    62    5    1    7
+336       JOAO PEDRO APARECIDO MACHADO DE RESENDE     SUÉLEN     62    5    1    7
+337                NARCISO AMANCIO NETO              YÁSCARAH    62    5    1    7
+338            MARCOS HENRIQUE MACHADO MAIA           SUÉLEN     62    4    3    4
+339                    MATHEUS LEAL                    IGOR      62    4    2    4
+340              DALVAN FORTALEZA ALENCAR             JORGE      62    4    1    4
+341                 ADAUTO JOSE MOURATO              LEANDRO     62    4    0    7
+342                 ADAUTO JOSE MOURATO              LEANDRO     62    4    0    7
+343                      ETEVALDO                    CYDYARA     62    4    0    5
+344                        GEANE                     CYDYARA     62    4    0    2
+345            ANA LUISA DE REZENDE ALMEIDA          GUSTAVO     62    3    4    2
+346                   LEANDRO FARIAS                 GUSTAVO     62    3    4    2
+347                    GILSON FILHO                  CAMPELO     62    3    1    7
+348                HELIO ALMEIDA NOLETO               RÔMULO     62    3    1    7
+349          FRANCISCO DAS CHAGAS BORGES LEAL        VICTÓRIA    62    3    1    4
+350                    GILSON NEIVA                  CAMPELO     62    3    1    4
+351               ANA BARRETO DE ALENCAR             LEANDRO     62    2    2    10
+352             ERISVALDO DOS SANTOS NUNES            BRUNO      62    2    2    4
+353                HANNA DE SOUSA DUTRA                IGOR      62    2    2    4
+354                    NELSON COSTA                   ALICE      62    2    1    4
+355          MARIA DA NATIVIDADE TEXEIRA ALVES        BRUNO      62    1    1    4
+356                  ROSA MARIA NUNES                LETÍCIA     62    1    1    4
+357                   VALMIR LUSTOSA                  MARKIM     61    5    3    2
+358                  JOAO PAULO ARAUJO               LETÍCIA     61    5    2    10
+359                 ANA CRISTINA VALLE               BEATRIZ     61    5    1    7
+360                    NAYRA MARTINS                  FÁBIO      61    5    1    7
+361             ANA MARIA NUNES FIGUEIREDO           LETOCIA     61    5    1    4
+362            VINICIUS ROFRIGUES DAS CHAGAS          SUÉLEN     61    5    1    4
+363                 ADRIEL REGO BARBOSA              LETICIA     61    5    0    7
+364                  LAO-TSE FRONTIERS               GABRIEL     61    5    0    4
+365             FRANCISCO DAS CHAGAS DUTRA             IGOR      61    4    3    4
+366          MARCOS VINICIUS SILVEIRA CRISANTO        MARKIM     61    4    2    4
+367             PAULO DE TARSO TOMAZ FILHO           GABRIELA    61    4    2    4
+368              ALESSANDRA MENDES SILVERA           GABRIEL     61    4    1    7
+369                   ISADORA MARQUES                BEATRIZ     61    4    1    4
+370           MARIA AGATHA MARGARETE REZENDE         GUSTAVO     61    4    1    4
+371                  ELIZYANNE MARTINS                VICTOR     61    3    2    7
+372             ANASTACIO GOMES FRANÇA NETO          YASCARAH    61    3    2    4
+373        RAIMUNDO MIRANDA TEIXEIRA MENDES NETO      BRUNO      61    3    2    4
+374          FRANCISCO BRUNO DE OLIVEIRA LIMA         JORGE      61    3    1    4
+375             ANTONIO DE S. HOLANDA FILHO           ROMULO     61    3    0    4
+376                    PAULO RICARDO                 GUSTAVO     61    3    0    4
+377              ROBERTA MENDES DE ARAÚJO            BEATRIZ     61    3    0    4
+378        ANTÔNIO MARCOS BEZARRA MIRANDA JUNIOR     BEATRIZ     61    1    2    4
+379                        ERICA                     CYDYARA     60    5    2    7
+380                MARCIO DA SILVA MAIA               SUÉLEN     60    5    2    7
+381                MARCOS AURELIO JUNIOR             LETÍCIA     60    5    2    7
+382          SERGIO HENRIQUE REZENDE PINHEIRO        GUSTAVO     60    5    1    4
+383                     ANISIO NETO                   SUELEN     60    4    3    4
+384                    ALLAN ARAUJO                    IGOR      60    4    2    7
+385                NARCISO AMANCIO NETO              YÁSCARAH    60    4    2    7
+386                       SOCORRO                     FÁBIO      60    4    2    7
+387                    GILSON FILHO                  CAMPELO     60    4    2    2
+388               ANA BARRETO DE ALENCAR             LEANDRO     60    4    1    10
+389                   THIAGO OLIVEIRA                RAFAELA     60    4    1    7
+390                   FELIPE BATISTA                   ENIO      60    4    1    4
+391                JOSE GERALDO RIBEIRO               SUÉLEN     60    4    0    10
+392                   GRAÇA TEIXEIRA                  FÁBIO      60    4    0    7
+393                   REGINALDO PINTO                 TATAIA     60    4    0    7
+394                    NELSON COSTA                   ALICE      60    4    0    4
+395          MARCOS ANTONIO CRISANTO DE SOUSA         MARKIM     60    3    4    4
+396                  FRANCISCO ARAÚJO                 FÁBIO      60    3    2    4
+397                    NELSON COSTA                   ALICE      60    3    2    4
+398                NARCISO AMANCIO NETO              YÁSCARAH    60    3    1    7
+399                   ERISON BARBOSA                  BRUNO      60    3    1    4
+400                   APARECIDA FRIGO                LEANDRO     60    2    2    10
+401         JOSE RIBAMAR PESSOA JUNIOR (BALADA)       MARKIM     60    2    2    4
+402                    THAKEO KATMUK                 BEATRIZ     60    2    2    4
+403              NATÁLIA DE ANDRADE NUNES            MORGANA     60    2    1    4
+404                    GILSON FILHO                  CAMPELO     60    2    0    4
+405                    GILSON FILHO                  CAMPELO     60    1    1    4
+406                   HENDELL AMARAL                  TATAIA     60    1    1    4
+407             LAURINETE ALVES DE ANDRADE           RAFAELA     59    7    2    4
+408             RODRIGO ANTONIO ROSAL MOTA             ENIO      59    5    2    7
+409                  JOÃO PAULO LAGES                MORGANA     59    5    1    10
+410                JOÃO VITOR MAGALHÃES              MORGANA     59    5    0    7
+411             LAYANA MARIA LIMA DA SILVA            BRUNO      59    5    0    7
+412                       JAKELMO                    CYDYARA     59    5    0    4
+413                   JESSICA SEMLER                 LETÍCIA     59    4    3    4
+414              ALESSANDRA MENDES SILVERA           GABRIEL     59    4    2    9
+415              LYDIO CELSO SAFE CARNEIRO           LETÍCIA     59    4    2    7
+416                    ISOLDA DANTAS                  TATAIA     59    4    2    4
+417                   JULIANA AGUIAR                 BEATRIZ     59    4    1    7
+418           RODRIGO DE SOUSA BATISTA VIEIRA        GUSTAVO     59    4    1    7
+419             WALTER NEIVA EULALIO FILHO            MARKIM     59    3    4    4
+420            CLÁUDIA CLEMENTINO G. BRANDÃO         MORGANA     59    3    2    7
+421           ANTONIO ALBERTO ALMEIDA NOLETO          ROMULO     59    3    2    4
+422            HEMILLY RANNY AMORIM CARVALHO           ENIO      59    3    2    4
+423           MARIA AGATHA MARGARETE REZENDE         GUSTAVO     59    3    2    4
+424          LUCAS AGUIAR ALENCAR DE OLIVEIRA          IGOR      59    3    1    7
+425                     KELVIN HAGI                    IGOR      59    3    0    7
+426             LORENA OLIVEIRA DE ANDRADE           GABRIEL     59    3    0    7
+427              MATHEUS DE MOURA E SOUZA            MORGANA     59    3    0    4
+428     THALLES HENRIQUE OLIVEIRA RAMOS CAVALCANTI     ENIO      59    3    0    4
+429              EDENIA BARRETO DE ALENCAR           LEANDRO     59    2    1    10
+430                    GILSON FILHO                  CAMPELO     59    2    1    7
+431           CHARLES LUCIANO LIBERAL FALCAO         LEANDRO     59    2    1    4
+432                   RUBEN COQUEIRO                  TATAIA     59    1    3    4
+433                    GILSON FILHO                  CAMPELO     59    1    2    4
+434              ALESSANDRA MENDES SILVERA           GABRIEL     58    6    1    7
+435            MARIA EUGENIA TERESA REZENDE          GUSTAVO     58    6    1    7
+436                     ANISIO NETO                   SUELEN     58    5    3    10
+437              NIVALDO (CABELO DE URSO)             MARKIM     58    5    3    2
+438                   CARLOS HAMILTON                LETÍCIA     58    5    1    4
+439                     ANA CELINA                   BEATRIZ     58    5    1    2
+440                   CATARINA ARAÚJO                BEATRIZ     58    5    1    2
+441             BENILDES RODRIGUES DA SILVA           BRUNO      58    4    3    4
+442            MIGUEL DE CARVALHO LEITE NETO         MORGANA     58    4    2    7
+443                  FRANCISCO ARAÚJO                 FÁBIO      58    4    2    4
+444              ALVARO HEITOR LUZ BORGES            VICTORIA    58    4    0    7
+445                  ELIZYANNE MARTINS                VICTOR     58    4    0    7
+446                     MATEUS LIMA                  LETÍCIA     58    4    0    7
+447             VINICIUS CAVALCANTI AMORIM             ENIO      58    4    0    7
+448               MARCOS AURELIO PEREIRA              MARKIM     58    3    4    4
+449                JOÃO VITOR MAGALHÃES              MORGANA     58    3    3    7
+450                    MAYARA PESSOA                  TATAIA     58    3    3    4
+451                   JEFFERSON FILHO                 TATAIA     58    3    2    4
+452                  ELIZYANNE MARTINS                VICTOR     58    3    1    4
+453                  LUCAS ARAUJO LUZ                VICTÓRIA    58    3    1    4
+454            MARIA LUCIMAR DE SOUSA DUTRA            IGOR      58    3    1    4
+455                    NELSON COSTA                   ALICE      58    2    2    7
+456            CLÁUDIA CLEMENTINO G. BRANDÃO         MORGANA     58    2    2    4
+457                    NELSON COSTA                   ALICE      58    2    2    2
+458            MARIA EUGENIA TERESA REZENDE          GUSTAVO     58    2    0    4
+459          SEBASTIÃO BEETHOVEN BRANDÃO FILHO       MORGANA     58    1    2    4
+460                HELIO ALMEIDA NOLETO               RÔMULO     57    5    1    4
+461            SEBASTIÃO BEETHOVEN BRANDÃO           MORGANA     57    4    3    7
+462               FELIPE LIMA DE CARVALHO              ENIO      57    4    2    7
+463                 ARLENE SILVA SERRA                ROMULO     57    4    1    7
+464                    NELSON COSTA                   ALICE      57    4    1    4
+465                        NOEL                      LEANDRO     57    3    3    7
+466                       ARMINDO                     TATAIA     57    3    3    4
+467                YURI ALCHAAR DE FARIA               ENIO      57    3    2    7
+468            CARLOS AGAMENON NOGUEIRA LEAL          MARKIM     57    3    2    4
+469            FERNANDA SILVA PORTELA FRAZÃO         MORGANA     57    3    1    4
+470                    NELSON COSTA                   ALICE      57    2    2    7
+471                    GILSON FILHO                  CAMPELO     57    2    2    4
+472                    AUGUSTO CEZAR                   ENIO      57    2    1    4
+473                DANIEL DE SOUSA LIMA                ENIO      57    2    1    4
+474             EPITACIO DE CARVALHO SANTOS           MARKIM     57    2    1    4
+475           ELIENE MARIA DA SILVA RODRIGUES         JORGE      57    1    0    7
+476                FLAVIA PRICILA SILVA               SUÉLEN     56    6    0    4
+477            MARIA EUGENIA TERESA REZENDE          GUSTAVO     56    5    3    7
+478                  VINICIUS FARIAS                 LEANDRO     56    5    1    7
+479              ALESSANDRA MENDES SILVERA           GABRIEL     56    5    1    4
+480             RAYLLA RYANE RAMOS AMANCIO           YÁSCARAH    56    4    4    2
+481             HERIK HENRIQUE VIANA ALVES             ENIO      56    4    0    10
+482             CLENIA MARIA RAMOS AMANCIO           YÁSCARAH    56    3    1    7
+483                      JOSE NETO                  GUILHERME    56    3    1    4
+484                SERGIO SOUSA ALENCAR              GABRIEL     56    2    2    7
+485                    NELSON COSTA                   ALICE      56    2    2    4
+486                NARCISO AMANCIO NETO              YÁSCARAH    56    2    0    7
+487                  ARTEMIS CARVALHO                LETICIA     56    2    0    4
+488                JOÃO VITOR MAGALHÃES              MORGANA     56    2    0    4
+489              LUCAS MARTINS DE CARVALHO             ENIO      56    2    0    4
+490                       ARMINDO                     TATAIA     56    1    3    7
+491                   OSCAR RODRIGUES                 FÁBIO      56    1    3    7
+492                DANIEL LIMA DE SOUSA              MORGANA     56    1    1    4
+493            JOSÉ WANDERSON DA SILVA ALVES         BEATRIZ     55    6    2    0
+494                   GERSON CARVALHO                 MARKIM     55    5    4    10
+495                  ISMAEL LUZ NOBRE                VICTÓRIA    55    5    1    4
+496            OMAR DE ANDRADE REZENDE FILHO         GUSTAVO     55    4    2    7
+497                       LUCIANA                    CYDYARA     55    3    3    4
+498                  GUILHERME PEDROSO               LETÍCIA     55    3    2    7
+499                    MATHEUS RAVI                   TATAIA     55    3    2    7
+500                   OSCAR RODRIGUES                 FÁBIO      55    3    2    7
+501                     LUCAS DIEGO                  LEANDRO     55    3    2    4
+502               POLIANA SANTOS OLIVEIRA              ENIO      55    3    1    4
+503            SEBASTIÃO BEETHOVEN BRANDÃO           MORGANA     55    3    1    4
+504                  FRANCISCO ARAÚJO                 FÁBIO      55    3    0    4
+505           PICILIA DE SALES SILVA AVELINO          BRUNO      55    3    0    4
+506                MANOEL PEREIRA FILHO               RÔMULO     55    2    4    7
+507                   BARBARA PASSOS                 LETICIA     55    2    3    2
+508              LORENA DE SOUSA LINHARES            GABRIELA    55    2    1    7
+509         JOZILAINE DIANA FERNANDES DA COSTA        SUÉLEN     55    2    1    4
+510               ROSANE SANTIAGO DE MELO             BRUNO      55    2    1    4
+511         THOMAZ ZABULON DE FIGUEIREDO VERAS       VICTÓRIA    55    2    1    2
+512           CARLOS RONAIB TEIXEIRA FEITOSA           ENIO      55    1    3    4
+513              ALESSANDRA MENDES SILVERA           GABRIEL     55    1    0    4
+514                    PEDRO JÚNIOR                  LEANDRO     55    1    0    4
+515                 ANANIAS DE ALENCAR               RAFAELA     54    5    3    4
+516                       LOURDES                    CYDYARA     54    5    1    4
+517           MARIA DAS GRAÇAS GOMES R. SOUSA        GABRIELA    54    4    2    4
+518           GILSON ALEXANDRINO DE CARVALHO         MORGANA     54    3    1    4
+519                   GRAÇA TEIXEIRA                  FÁBIO      54    3    1    4
+520                       SOCORRO                     FÁBIO      54    3    1    4
+521                    CARLOS MIGUEL                 CYDYARA     54    2    0    4
+522          FRANCISCO DAS CHAGAS BORGES LEAL        VICTÓRIA    54    2    0    4
+523            CLÁUDIA CLEMENTINO G. BRANDÃO         MORGANA     54    1    2    4
+524           VICENTE DE PAULA DA SILVA MAIA          SUÉLEN     54    1    1    4
+525                    DANILO PIRES                   TATAIA     54    0    2    4
+526             MARCOS VINICIUS MENDES LEAL          LEANDRO     54    0    2    2
+527         FRANCIMAR DE CARVALHO BRITO BORGES       VICTÓRIA    53    5    2    7
+528                  FRANSCISCO CAMPOS                TATAIA     53    4    1    7
+529             ANASTACIO GOMES FRANÇA NETO          YASCARAH    53    3    3    4
+530                     MIGUEL NETO                  CAMPELO     53    3    2    2
+531                       LAIANE                     CYDYARA     53    3    1    7
+532          MARCOS FERNANDO BANDEIRA MESQUITO        BRUNO      53    3    1    7
+533             SUELY MARIA DAS GRAÇAS MAIA           SUÉLEN     53    3    0    7
+534                ANA THEREZA OLIVEIRA              BEATRIZ     53    3    0    4
+535                 DENIO DA ROCHA LIMA              LETÍCIA     53    3    0    4
+536               EDIELSON GOMES RIBEIRO             RAFAELA     53    3    0    4
+537            MARCOS SERGIO RODRIGUES LEAL          VICTÓRIA    53    3    0    4
+538                     LUCAS LINS                    TATAIA     53    2    2    4
+539                    NELSON COSTA                   ALICE      53    2    2    4
+540                    CÍCERO COSTA                    ENIO      53    2    1    7
+541                FLÁVIA NUNES FONSECA              LETÍCIA     53    2    1    7
+542                     ANGELO LIRA                  LEANDRO     53    2    1    4
+543                  ARTHUR CAVALCANTE               LETÍCIA     53    2    1    4
+544            CARLOS AGAMENON NOGUEIRA LEAL          MARKIM     53    2    1    4
+545            CLÁUDIA CLEMENTINO G. BRANDÃO         MORGANA     53    2    1    4
+546                    CORONEL LIDIO                  MARKIM     53    2    1    4
+547          FRANCISCO DAS CHAGAS BORGES LEAL        VICTÓRIA    53    2    1    4
+548             RAYLLA RYANE RAMOS AMANCIO           YÁSCARAH    53    2    1    4
+549                     CLETO SALHA                  BEATRIZ     53    1    0    4
+550          JOSE DE DEUS COSTA PEREIRA FILHO       GUILHERME    53    1    0    4
+551           JOSÉ TADEU CAVALCANTE DE AMORIM          ENIO      52    4    2    7
+552                      SOCORRO                     CYDYARA     52    4    0    4
+553                   ARTHUR NOGUEIRA                 TATAIA     52    3    3    4
+554                   NATACHA DANTAS                  TATAIA     52    3    2    4
+555                   ADRIANA LORENA                  BRUNO      52    3    1    4
+556                    ANDRE ARAGAO                    ENIO      52    2    2    7
+557     GABRIEL FELIPE TEIXEIRA FREIRE DE OLIVEIRA     IGOR      52    2    0    4
+558                   GRAÇA TEIXEIRA                  FÁBIO      52    1    2    4
+559                       GEOVANE                    GABRIEL     52    1    1    4
+560             MARCOS ANDRE OLIVEIRA SOUSA          YÁSCARAH    52    1    1    4
+561            PAULO DANIEL DE ARAUJO LOPES            ENIO      52    1    1    4
+562                        VANIA                     CYDYARA     52    1    1    4
+563           FILIPI ALENCAR SOARES DE SOUSA          MARKIM     52    0    2    4
+564                    VINICIUS RUAN                   IGOR      51    4    2    7
+565            MARIA DOS PRAZERES RODRIGUES           BRUNO      51    4    1    7
+566                   OSCAR RODRIGUES                 FÁBIO      51    4    1    7
+567          MARCOS ANTONIO CRISANTO DE SOUSA         MARKIM     51    3    3    7
+568         LUAN HENRIQUE MEDEIROS DE OLIVEIRA        SUÉLEN     51    3    2    2
+569              ALESSANDRA MENDES SILVERA           GABRIEL     51    3    0    7
+570            AILA MARIA DE ALENCAR BARRETO         LEANDRO     51    2    1    10
+571                     ELANO MONTE                  GUSTAVO     51    2    1    7
+572                 IRIS MARIA DE JESUS               SUÉLEN     51    2    1    7
+573                    REBECA ROCHA                  GUSTAVO     51    2    1    4
+574            SEBASTIÃO BEETHOVEN BRANDÃO           MORGANA     51    2    1    4
+575            SEBASTIÃO BEETHOVEN BRANDÃO           MORGANA     51    2    1    4
+576               EMANUEL ALVES DE SOUSA             RAFAELA     51    1    2    4
+577                    MARCIO TINÔCO                 MORGANA     51    0    1    4
+578                      MARYJANE                    CYDYARA     50    6    0    7
+579        MARIA CLARA GONÇALVES RIBEIRO MORAIS        IGOR      50    5    2    7
+580             ROBERTO CARVALHO DE ALENCAR            IGOR      50    5    2    4
+581                 ALESSANDRA HERCILIA                IGOR      50    4    2    4
+582                ANTONIO LUIZ DE SOUSA              BRUNO      50    4    1    4
+583           ALEKSANDRA MENDES SZEZEPANOWSKI        RAFAELA     50    3    2    4
+584                  HADES LIMA CARMO                MORGANA     50    3    1    7
+585                    GILDASIO MELO                 GABRIEL     50    2    2    4
+586               PHILIPPE HENRIQUE SILVA             SUÉLEN     50    2    1    4
+587                   ANDRE CLAUDINO                  TATAIA     50    2    0    7
+588                  FRANCISCO ARAÚJO                 FÁBIO      50    1    2    4
+589                    NELSON COSTA                   ALICE      50    1    1    7
+590                JOÃO VITOR MAGALHÃES              MORGANA     50    1    1    4
+591            REGINALDO RODRIGUES DA SILVA           BRUNO      50    0    6    7
+592              MARIO JOSÉ REIS DE SOUSA            LEANDRO     50    0    0    4
+593              MARIO JOSÉ REIS DE SOUSA            LEANDRO     50    0    0    4
+594              NAZARENO CANTIN DO JAMBO            GABRIEL     49    3    0    7
+595                  ELIZYANNE MARTINS                VICTOR     49    2    1    7
+596                  GUILHERME DANTAS                 TATAIA     49    2    1    4
+597             LEONEL DE AMORIM RODRIGUES             ENIO      49    2    1    4
+598          SEBASTIÃO BEETHOVEN BRANDÃO FILHO       MORGANA     49    1    5    9
+599            CLÁUDIA CLEMENTINO G. BRANDÃO         MORGANA     49    1    0    4
+600     GABRIEL FELIPE TEIXEIRA FREIRE DE OLIVEIRA     IGOR      49    1    0    4
+601            MARIA EUGENIA TERESA REZENDE          GUSTAVO     48    4    1    7
+602                EDUARDA MACHADO MAIA               SUÉLEN     48    4    1    0
+603               JULIANA ARAUJO REZENDE             GUSTAVO     48    3    2    2
+604             CELI MARIA DE JESUS RIBEIRO           SUÉLEN     48    3    1    4
+605                  ADONIAS TORRES JR                TATAIA     48    2    0    4
+606                    JOAO GABRIEL                   TATAIA     48    2    0    4
+607                  THAMARA CHISTINA                CYDYARA     48    1    3    2
+608               ANDRE MACEDO CAVALCANTE              ENIO      48    1    1    4
+609                     ANGELO LIRA                  LEANDRO     48    1    1    4
+610            CLOTILDE MARIA CHAVES TEXEIRA          BRUNO      47    4    5    9
+611                      FRANCISCA                   CYDYARA     47    2    1    5
+612           SAMUEL CESAR VASCONCELOS PONTE         VICTÓRIA    47    1    2    4
+613                  ELIZYANNE MARTINS                VICTOR     47    1    0    4
+614                   GEOVANNA SANTOS                 FÁBIO      47    1    0    4
+615                  LUCELIA MARIA LUZ               VICTÓRIA    46    5    1    7
+616                    JEANIA MARIA                  CYDYARA     46    3    2    4
+617                GILBERTO BORGES LEAL              VICTÓRIA    46    3    1    4
+618              MAELSON OLIVEIRA DE SOUSA           RAFAELA     46    2    0    4
+619              MARIA CLARA LEAL MEDEIROS           YÁSCARAH    46    2    0    4
+620              NIVALDO (CABELO DE URSO)             MARKIM     46    1    1    4
+621              RAIMUNDO BORGES DE ARAUJO            BRUNO      46    1    1    4
+622              FRANCINALDO FRANCISCO LUZ           VICTÓRIA    45    3    0    4
+623                        GUTO                      GABRIEL     45    3    0    4
+624                   RUSDAEL ALENCAR                VICTÓRIA    45    2    1    4
+625               SUELENE DA CRUZ PESSOA              BRUNO      44    3    1    2
+626             VILNIA LUCIA SOUSA ARAUJO            GUSTAVO     44    2    3    7
+627                      MARINETE                    CYDYARA     44    2    0    4
+628          STEFFANY LORRAINY DE SOUZA SILVA         SUÉLEN     43    1    1    4
+629              DANIELA TEIXEIRA FEITOSA              ENIO      42    2    0    4
+630                GILBERTO BORGES LEAL              VICTÓRIA    42    2    0    4
+631              ALESSANDRA MENDES SILVERA           GABRIEL     42    0    2    4
+632                    GILSON FILHO                  CAMPELO     42    0    0    4
+633            FRANCISCO RUAN DA SILVA ALVES         BEATRIZ     41    2    3    0
+634                     PABLO LOPES                   BRUNO      41    1    0    2
+635                   RAIMUNDO FILHO                 CYDYARA     40    2    0    7
+636                  FABRICIO PORTELA                VICTÓRIA    40    1    1    7
+637                     PABLO LOPES                   BRUNO      39    1    0    2
+638              CORBINIANO NAVEZ DA ROCHA           VICTÓRIA    39    0    1    4
+639          GIOVANNA APARECIDA OLIVEIRA SILVA        SUÉLEN     39    0    1    4
+640               GUSTAVO ARAUJO REZENDE             GUSTAVO     38    1    3    2
+641             RUAM BORGES COSTA DE ARAUJO           BRUNO      38    1    1    7
+642                   VICTOR FEITOSA                  TATAIA     38    1    1    7
+643                   ALEX SINAIGUER                  ROMULO     38    1    1    4
+644                    VALTER BRAGA                  MORGANA     37    5    9    5
+645                       ELIENE                     CYDYARA     37    3    0    0
+646             VILNIA LUCIA SOUSA ARAUJO            GUSTAVO     37    2    3    2
+647               VALDELUCIA LUZ ALMONDES            VICTÓRIA    37    0    3    2
+648            OMAR DE ANDRADE REZENDE FILHO         GUSTAVO     36    3    2    4
+649                      MARIA ENF                   CYDYARA     35    0    1    4
+650                   ALUISIO SALGADO                 SUELEN     34    0    2    4
+651             VILNIA LUCIA SOUSA ARAUJO            GUSTAVO     32    1    1    2
+652                FRANCINALDO DE SOUSA              VICTÓRIA    31    2    1    7
+653               GUSTAVO ARAUJO REZENDE             GUSTAVO     31    1    3    4
+654            OMAR DE ANDRADE REZENDE FILHO         GUSTAVO     26    0    2    2

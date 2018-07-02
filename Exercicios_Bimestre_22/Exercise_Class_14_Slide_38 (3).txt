@@ -1,0 +1,4 @@
+Criar exemplos que ilustrem os padrões:
+1) Ponte
+2) Decorador
+3) Compósito

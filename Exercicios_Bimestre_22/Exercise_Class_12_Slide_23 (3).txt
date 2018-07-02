@@ -1,0 +1,4 @@
+1) Desenvolver uma aplicação Flask usando cookies
+2) Desenvolver uma aplicação Flask usando sessões
+3) Desenvolver uma aplicação que permita carregar arquivos em um servidor,
+listar e acessar arquivos no servidor

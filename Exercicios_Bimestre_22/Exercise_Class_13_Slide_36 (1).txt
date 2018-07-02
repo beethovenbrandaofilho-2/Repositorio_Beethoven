@@ -1,0 +1,2 @@
+1) Identifique no Projeto do Grupo situações onde os princípios
+SOLID poderiam ser (ou foram) aplicados
